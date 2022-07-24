@@ -1,0 +1,42 @@
+# This is the server motd.
+Server-MOTD:
+  Line-1: '&b&l&m-----------[&r&6&l ExploreCraft &b&l&m]-----------'
+  Line-2: '&f&kputoooooooo&b&oNo se apene, pásele joven&f&kputoooooooo'
+# The motd of the player when they join in.
+# The motd of the player when they join in.
+# The motd of the player when they join in.
+# The motd of the player when they join in.
+JoinGame-MOTD:
+  Enabled: true
+  # Check forum for placeholders.
+  # Supported for PlaceholderAPI placeholders.
+  # Check forum for placeholders.
+  # Supported for PlaceholderAPI placeholders.
+  # Check forum for placeholders.
+  # Supported for PlaceholderAPI placeholders.
+  # Check forum for placeholders.
+  # Supported for PlaceholderAPI placeholders.
+  Messages:
+  - '&eEn mejores tepalcates he frito mi longaniza.'
+# Server icon.
+# Server icon.
+# Server icon.
+# Server icon.
+Custom-Server-Icon:
+  # Set to true will load image from motd folder.
+  # Set to true will load image from motd folder.
+  # Set to true will load image from motd folder.
+  # Set to true will load image from motd folder.
+  Enabled: true
+  # Make sure it's 64 x 64 pixels with png format.
+  # Make sure it's 64 x 64 pixels with png format.
+  # Make sure it's 64 x 64 pixels with png format.
+  # Make sure it's 64 x 64 pixels with png format.
+  Image: server-icon.png
+# The maximum players of the server.
+# The maximum players of the server.
+# The maximum players of the server.
+# The maximum players of the server.
+Server-Maximum-Players:
+  Modify: true
+  Maximum-Players: 20
